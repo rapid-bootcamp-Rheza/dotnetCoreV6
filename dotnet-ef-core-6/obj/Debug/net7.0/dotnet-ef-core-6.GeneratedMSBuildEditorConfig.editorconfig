@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = dotnet_ef_core_6
+build_property.RootNamespace = dotnet_ef_core_6
+build_property.ProjectDir = D:\Bootcampjava\dotnetEfCore\DotnetEfCoreV6\dotnet-ef-core-6\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Bootcampjava\dotnetEfCore\DotnetEfCoreV6\dotnet-ef-core-6
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Category/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Category/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Customer/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Customer/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Kos/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Kos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Kos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Kos/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Rental/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Rental/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Rental/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Rental/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Shipper/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Shipper/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Shipper/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Shipper/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/dotnetEfCore/DotnetEfCoreV6/dotnet-ef-core-6/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2fgo61bix4

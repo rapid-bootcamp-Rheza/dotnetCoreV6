@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model dotnet_ef_core_6.DataContext.RentalEntity
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+
+}
+
+<div>
+    <h2>Detail Rental</h2>
+    <table class="table table-bordered">
+        <tr>
+            <th> Id</th>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>@Model.NamaPenyewa</td>
+        </tr>
+        <tr>
+            <th>Jenis Kendaraan</th>
+            <td>@Model.Jenis</td>
+        </tr>
+        <tr>
+            <th>Merk Kendaraan</th>
+            <td>@Model.Merk</td>
+        </tr>
+        <tr>
+            <th>Harga Sewa per Hari</th>
+            <td>@Model.Sewa</td>
+        </tr>
+        <tr>
+            <th>Hari Sewa</th>
+            <td>@Model.HariSewa</td>
+        </tr>
+    </table>
+
+</div>

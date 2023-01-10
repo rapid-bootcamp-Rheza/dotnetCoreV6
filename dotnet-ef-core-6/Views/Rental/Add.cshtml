@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model dotnet_ef_core_6.DataContext.RentalEntity
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+<div>
+    <h2>Add New Rental</h2>
+    <form asp-controller="Rental" asp-action="Save" method="post">
+        <div class="form-group">
+            <label asp-for="NamaPenyewa"></label>
+            <input asp-for="NamaPenyewa" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Jenis"></label>
+            <input asp-for="Jenis" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Merk"></label>
+            <input asp-for="Merk" class="form-control" />
+        </div>
+         <div class="form-group">
+            <label asp-for="Sewa"></label>
+            <input asp-for="Sewa" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="HariSewa"></label>
+            <input asp-for="HariSewa" class="form-control" />
+        </div>
+        <div class="form-footer">
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </form>
+
+</div>

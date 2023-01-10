@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model dotnet_ef_core_6.DataContext.ShipperEntity
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+
+}
+<div>
+    <h2>Edit Shipper</h2>
+    <form asp-controller="Shipper" asp-action="Update" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <label asp-for="NamaShipper"></label>
+            <input asp-for="NamaShipper" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Product"></label>
+            <input asp-for="Product" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Region"></label>
+            <input asp-for="Region" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="PriceShipper"></label>
+            <input asp-for="PriceShipper" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Branch"></label>
+            <input asp-for="Branch" class="form-control" />
+        </div>
+        <div class="form-footer">
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </form>
+
+</div>
